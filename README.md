@@ -1,3 +1,3 @@
 # codex&+
 This is a repository.
-Developed by Namya Dutta
+Developed by Namya 
